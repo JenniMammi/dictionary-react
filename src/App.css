@@ -1,3 +1,8 @@
+.App {
+  font-family: "Space Grotesk", sans-serif;
+  background: rgb(235, 235, 235);
+}
+
 .App .App-header  {
   margin: 30px auto;
 }

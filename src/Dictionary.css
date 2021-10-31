@@ -3,3 +3,13 @@
   padding: 40px;
   text-align: center;
 }
+
+.Dictionary h1 {
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.Dictionary h2 {
+  font-weight: 300;
+  font-size: 20px;
+}
