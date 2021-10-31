@@ -7,3 +7,10 @@
   display: block;
   margin: 0 auto;
 }
+
+.App .App-footer {
+  padding: 10px;
+  font-size: 12px;
+  text-align: center;
+  color: grey;
+}
