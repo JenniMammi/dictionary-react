@@ -1,16 +1,21 @@
+body {
+  background-color: rgb(235, 235, 235);
+}
+
 .App {
   font-family: "Space Grotesk", sans-serif;
   background: rgb(235, 235, 235);
 }
 
-.App .App-header  {
-  margin: 30px auto;
+.App .roundedlogo {
+  height: 250px;
+  display: block;
+  margin: 20px auto;
+  background: rgb(235, 235, 235);
 }
 
-.App .minkkiface {
-  height: 150px;
-  display: block;
-  margin: 0 auto;
+.App .App-header  {
+  margin: 30px auto;
 }
 
 .App .App-footer {
