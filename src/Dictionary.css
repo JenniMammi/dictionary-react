@@ -1,14 +1,43 @@
 .Dictionary {
   background: rgb(198, 198, 198);
   padding: 40px;
+  border-radius: 8px;
+  box-shadow: 5px 3px 4px rgb(177, 177, 177);
+}
+
+.Dictionary .search {
+  width: 400px;
+  height: 35px;
+  margin-top: 15px;
+  border-radius: 8px;
+  border: transparent;
+  box-shadow: 5px 3px 4px rgb(177, 177, 177);
+}
+
+.Dictionary .submit-button {
+  width: 100px;
+  margin-left: 10px;
+  height: 35px;
+  border-radius: 8px;
+  border: transparent;
+  box-shadow: 5px 3px 4px rgb(177, 177, 177);
 }
 
 .Dictionary h1 {
   font-weight: 500;
   font-size: 35px;
+  font-family: "Yuji Syuku", serif;
 }
 
 .Dictionary h2 {
   font-weight: 300;
   font-size: 20px;
+}
+
+.Dictionary section {
+  background-color: white;
+  border-radius: 8px;
+  margin: 15px;
+  padding: 10px 0px 15px 15px;
+  box-shadow: 5px 5px 5px rgb(177, 177, 177);
 }

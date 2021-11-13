@@ -1,0 +1,24 @@
+.Phonetic a {
+  border: 1px solid #ddd;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline;
+  padding: 1.75px 15px 1.75px 15px;
+  margin-left: 15px;
+}
+
+.Phonetic a:hover {
+  background-color: rgb(216, 216, 216);
+}
+
+.Phonetic .listen-button {
+  display: inline;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 10px 0px 10px 0px;
+}
+
+.Phonetic .pronunciation {
+  font-size: 15px;
+  display: inline;
+}

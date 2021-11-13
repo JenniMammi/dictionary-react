@@ -3,7 +3,7 @@ body {
 }
 
 .App {
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "Playfair Display", serif;
   background: rgb(235, 235, 235);
 }
 
@@ -18,9 +18,9 @@ body {
   margin: 30px auto;
 }
 
-.App .App-footer {
+footer {
   padding: 10px;
   font-size: 12px;
   text-align: center;
-  color: grey;
+  color: rgb(52, 52, 52);
 }
