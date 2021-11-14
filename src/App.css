@@ -5,6 +5,8 @@ body {
 .App {
   font-family: "Playfair Display", serif;
   background: rgb(235, 235, 235);
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App .roundedlogo {
