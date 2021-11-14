@@ -11,6 +11,7 @@
   margin-top: 15px;
   border-radius: 8px;
   border: transparent;
+  padding: 0px 0px 0px 10px;
   box-shadow: 5px 3px 4px rgb(177, 177, 177);
 }
 
@@ -38,6 +39,6 @@
   background-color: white;
   border-radius: 8px;
   margin: 15px;
-  padding: 10px 0px 15px 15px;
+  padding: 15px 15px 15px 15px;
   box-shadow: 5px 5px 5px rgb(177, 177, 177);
 }
